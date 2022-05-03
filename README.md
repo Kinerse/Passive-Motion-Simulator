@@ -8,7 +8,7 @@ This project is opensource, read the license file for more information.
 This is a very early version and should not be expected to work properly or confortably for all body types and heights.
 
 
-![](Images/PMS_gameplay.gif)
+![](Images/PMS_gameplay_800px.gif)
 
 
 ![](Images/x8epQXnoey.png)
