@@ -8,10 +8,13 @@ This project is opensource, read the license file for more information.
 This is a very early version and should not be expected to work properly or confortably for all body types and heights.
 
 
+![](Images/PMS_gameplay.gif)
+
+
 ![](Images/x8epQXnoey.png)
 ![](Images/side.jpeg)
-![](Images/0NsygRSDCB.png)
-![](Images/PMS_gameplay.gif)
+
+
 
 
 ![](oshw-logo-800-px.webp)
