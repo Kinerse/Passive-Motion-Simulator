@@ -9,5 +9,8 @@ This is a very early version and should not be expected to work properly or conf
 
 
 ![](Images/x8epQXnoey.png)
+![](Images/persp.jpeg)
+![](Images/0NsygRSDCB.png)
+
 
 ![](oshw-logo-800-px.webp)
