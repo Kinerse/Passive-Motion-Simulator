@@ -11,7 +11,7 @@ This is a very early version and should not be expected to work properly or conf
 ![](Images/x8epQXnoey.png)
 ![](Images/side.jpeg)
 ![](Images/0NsygRSDCB.png)
-![](Images/playing.png)
+![](Images/playing.jpg)
 
 
 ![](oshw-logo-800-px.webp)
