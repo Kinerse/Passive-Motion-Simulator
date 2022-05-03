@@ -5,6 +5,8 @@ The main working principle relies on using the actual steering movement of the p
 
 This project is opensource, read the license file for more information.
 
+This is a very early version and should not be expected to work properly or confortably for all body types and heights.
+
 
 ![](Images/x8epQXnoey.png)
 
