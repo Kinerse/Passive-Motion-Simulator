@@ -7,6 +7,8 @@ This project is opensource under TAPR Open Hardware License, read the license fi
 
 This is a very early version and should not be expected to work properly or confortably for all body types and heights.
 
+You can register for pre-order on our website https://kinerse.com/main/passive-motion-simulator/
+
 
 ![](Images/PMS_gameplay_800px.gif)
 
