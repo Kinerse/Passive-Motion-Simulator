@@ -9,6 +9,8 @@ This is a very early version and should not be expected to work properly or conf
 
 You can register for pre-order on our website https://kinerse.com/main/passive-motion-simulator/
 
+If you want to chat with us or sugest improvements this is our discord https://discord.gg/6W4NbXAcBe
+
 
 ![](Images/PMS_gameplay_800px.gif)
 
